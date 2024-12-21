@@ -1,6 +1,47 @@
 ### Hi there, I'm [Trisha Winquist](https://sarafina15.github.io) 👧
+### Education
+
+BS Science - Biology/CHemistry
+
+I completed my Bachelors of Science from [Briar Cliff College]
+
+Masters- Data Science 
 
 I completed my masters in Data Science from [Bellevue University][(https://www.bellevue.edu)) Apart from that, I am passionate about fitness and staying active. I am happily married and blessed with two beautiful daughters.
+
+### Work Experience: 
+
+Chemist | Tyson Foods
+Dates of Employment: [1993] – [2014]
+
+As a chemist at Tyson Foods, I was responsible for ensuring the quality and safety of food products through chemical analysis and testing. My role involved conducting detailed experiments and tests to monitor product composition, ingredient quality, and adherence to industry standards. I collaborated with cross-functional teams to support production processes, troubleshoot quality issues, and implement solutions.
+
+Key responsibilities included:
+
+Performing chemical and physical analyses on raw materials, finished products, and environmental samples to ensure compliance with internal and regulatory quality standards.
+Developing and validating analytical testing methods to improve product consistency and safety.
+Managing and maintaining laboratory equipment to ensure accuracy and precision in testing.
+Collaborating with production teams to address any product quality concerns and develop corrective actions when necessary.
+Maintaining detailed records of all tests, results, and deviations, while ensuring adherence to Good Laboratory Practices (GLP).
+Assisting with the implementation of new technologies and improving laboratory processes to enhance operational efficiency and product quality.
+
+
+Here’s a professional work experience statement for your role as an Operation Specialist for Rendering, with a focus on teaching and auditing regarding the Food Safety Modernization Act (FSMA):
+
+Operation Specialist – Rendering | [Tyson Foods]
+Dates of Employment: [2014] – [Present]
+
+As an Operation Specialist in the rendering department, I was responsible for overseeing the implementation and compliance of the Food Safety Modernization Act (FSMA) within the company’s rendering operations. My role combined operational management, food safety training, and auditing to ensure that all procedures were in line with federal regulations and industry best practices.
+
+Key responsibilities included:
+
+Training and Development: Conducting regular training sessions for staff at all levels on FSMA regulations, food safety principles, and the company's specific procedures to ensure compliance with federal guidelines. I developed training materials and hands-on exercises to effectively communicate complex food safety concepts.
+Food Safety Auditing: Performing internal audits to assess compliance with food safety standards, including HACCP (Hazard Analysis Critical Control Point), FSMA, and other industry-specific guidelines. This included reviewing documentation, inspecting processes, and verifying corrective actions for non-conformances.
+FSMA Compliance: Ensuring that all rendering processes met the standards outlined by the Food Safety Modernization Act (FSMA). I was responsible for developing and updating food safety plans and procedures, with a focus on preventive controls and risk-based management.
+Collaboration with Cross-Functional Teams: Working closely with production, quality assurance, and regulatory teams to align operations with food safety objectives, ensuring that all departments were informed and prepared for audits and regulatory inspections.
+Continuous Improvement: Identifying areas for improvement in operational and food safety processes and implementing corrective actions. I led initiatives to optimize efficiency while maintaining compliance with food safety standards.
+Documentation and Reporting: Maintaining detailed records of food safety training, audits, corrective actions, and FSMA-related activities. This documentation was essential for both internal reviews and external regulatory inspections.
+My role as an Operation Specialist in Rendering allowed me to significantly contribute to the company’s commitment to producing safe and high-quality products by ensuring compliance with FSMA and continuously improving food safety practices.
 
 **My Research Interest**:
 - Python
