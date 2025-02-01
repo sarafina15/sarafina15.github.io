@@ -73,7 +73,7 @@ Discover new music: Based on patterns of your listening habits, services provide
 - <b>👷‍♀️Predictive Maintenance: Schedule Maintenance by estimating the time to Failure</b> https://github.com/sarafina15/Predictive-maintenance-
 
   Predictive maintenance lets you find the optimum time to schedule maintenance by estimating the time to failure. It also pinpoints problems in your machinery and helps you identify the parts that need to be fixed. Using predictive maintenance, you can minimize downtime and maximize equipment lifetime.
-- <b>🎶Spotify Data Analysis Project</b>
+- <b>🎶Spotify Data Analysis Project</b> https://github.com/sarafina15/Spotify
 
   Spotify is the world's largest audio streaming platform with various features, including sharing songs freely and viewing the lyrics while playing the Json data sources. Finding the top trending songs and creating playlists based on listeners' preferences.
 The primary objective of this project is to perform an in-depth analysis of Spotify’s vast music dataset to identify top trending songs, listener preferences, and create personalized playlists. This analysis will help understand user behavior, song popularity patterns, and can assist in enhancing the recommendation systems to improve user experience.
