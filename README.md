@@ -51,7 +51,7 @@ My role as an Operation Specialist in Rendering allowed me to significantly cont
 
 <h2>👩‍💻 Data Science Projects:</h2>
  
-- <b>🍷Inventory Management using 2020 Iowa Liquor data
+- <b>🍷Inventory Management using 2020 Iowa Liquor data  https://github.com/sarafina15/Inventory-Management-using-2020-Iowa-Liquor-data
 
   The objective of this project is to build an inventory management model for liquor retailers, using the 2020 Iowa Liquor Data. The model aims to optimize inventory levels by predicting sales trends, identifying popular and slow-moving products, and providing recommendations for stock management. The goal is to reduce excess inventory, minimize stockouts, and maximize profitability while ensuring customer satisfaction.
 Effective inventory management is crucial for maintaining profitability. Liquor retailers must balance the need to stock popular products without overstocking slow-moving items. This can help reduce both excess inventory and stockouts, leading to improved sales and customer satisfaction.
