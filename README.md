@@ -51,8 +51,13 @@ My role as an Operation Specialist in Rendering allowed me to significantly cont
 
 <h2>👩‍💻 Data Science Projects:</h2>
 
+- <b> 🧑‍🤝‍🧑 HR attrition using data-driven solutions https://github.com/sarafina15/HR-attrition
+ 
+  This project explores the use of data science to predict employee attrition, identify its key drivers, and enable HR professionals to develop data-driven retention strategies. Organizations must identify the primary factors that influence employee attrition and assess whether predictive models can accurately forecast which employees are at risk of leaving within the next six months. Key considerations include the impact of salary, compensation, and benefits on attrition, the role of employee tenure in turnover likelihood, and whether gender or age disparities exist in attrition rates. Additionally, understanding the influence of work-life balance and the correlation between business travel frequency and employee retention is essential.
+
 - <b>🥩 Agricultural Pricing Transparency and Data-Driven Solutions https://github.com/sarafina15/Meat-price-Predictions
-This project focuses on addressing inefficiencies, price volatility, and lack of transparency within the agricultural supply chain, particularly in the meat industry. The goal is to enhance price transparency, enable real-time data sharing, and foster data-driven pricing strategies for producers, wholesalers, and retailers. By implementing these solutions, stakeholders can access critical market insights to set competitive and fair prices, improving supply chain efficiency.The project aims to support policy decisions related to agricultural subsidies, price regulations, and consumer protection through clearer pricing data and improved market understanding. A specific focus is placed on the events in the beef   industry in 2015, offering valuable context for broader trends in pricing structures and market dynamics.
+  
+  This project focuses on addressing inefficiencies, price volatility, and lack of transparency within the agricultural supply chain, particularly in the meat industry. The goal is to enhance price transparency, enable real-time data sharing, and foster data-driven pricing strategies for producers, wholesalers, and retailers. By implementing these solutions, stakeholders can access critical market insights to set competitive and fair prices, improving supply chain efficiency.The project aims to support policy decisions related to agricultural subsidies, price regulations, and consumer protection through clearer pricing data and improved market understanding. A specific focus is placed on the events in the beef   industry in 2015, offering valuable context for broader trends in pricing structures and market dynamics.
  
 - <b>🍷Inventory Management using 2020 Iowa Liquor data  https://github.com/sarafina15/Inventory-Management-using-2020-Iowa-Liquor-data
 
