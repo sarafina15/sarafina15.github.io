@@ -1,5 +1,6 @@
 ### Hi there, I'm [Trisha Winquist](https://sarafina15.github.io) 👧
 ### Education
+![Profile Picture](https://github.com/sarafina15.png)
 
 BS Science - Biology/CHemistry
 
